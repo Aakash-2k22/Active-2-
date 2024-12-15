@@ -1,0 +1,11 @@
+@media(max-width:576px)
+{
+    .box img
+    {
+        width: 100%;
+    }
+    .box-1 img
+    {
+        width: 100%;
+    }
+}
